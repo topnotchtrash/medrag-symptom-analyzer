@@ -1,0 +1,2 @@
+disease_id,disease_name,primary_specialist,secondary_specialist,urgency_level,requires_emergency,notes
+pneumonia,Pneumonia,Pulmonologist,Internal Medicine,moderate,false,Example row

@@ -1,0 +1,11 @@
+{
+  "fever": [
+    "pyrexia"
+  ],
+  "cough": [
+    "tussis"
+  ],
+  "chest pain": [
+    "angina"
+  ]
+}
